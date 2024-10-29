@@ -1,0 +1,99 @@
+{
+    "chat_id": "12345",
+    "participants": [
+        {
+            "user_id": "user_1",
+            "username": "Alice"
+        },
+        {
+            "user_id": "user_2",
+            "username": "Bob"
+        }
+    ],
+    "messages": [
+        {
+            "message_id": "1",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:01:23Z",
+            "content": "Hey Bob, how's it going?"
+        },
+        {
+            "message_id": "2",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:02:15Z",
+            "content": "Hi Alice! I'm doing well, thanks. How about you?"
+        },
+        {
+            "message_id": "3",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:03:05Z",
+            "content": "I'm good! Just working on a new project."
+        },
+        {
+            "message_id": "4",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:03:45Z",
+            "content": "That sounds interesting! What's it about?"
+        },
+        {
+            "message_id": "5",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:04:30Z",
+            "content": "It's a chat app, actually. Trying to add some new features."
+        },
+        {
+            "message_id": "6",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:05:12Z",
+            "content": "Nice! Are you adding anything unique?"
+        },
+        {
+            "message_id": "7",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:06:00Z",
+            "content": "Yeah, thinking about adding reactions, and maybe voice notes."
+        },
+        {
+            "message_id": "8",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:06:45Z",
+            "content": "Reactions sound cool! People love those. Voice notes would be a great addition too."
+        },
+        {
+            "message_id": "9",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:07:30Z",
+            "content": "Exactly! I think it'll make it more interactive. How about you? Any projects lately?"
+        },
+        {
+            "message_id": "10",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:08:15Z",
+            "content": "I'm just wrapping up a portfolio website. Trying to add a blog section to it."
+        },
+        {
+            "message_id": "11",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:08:55Z",
+            "content": "Oh nice! Blogs are a great way to showcase your skills. Planning to write regularly?"
+        },
+        {
+            "message_id": "12",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:09:30Z",
+            "content": "That's the plan! But, you know how hard it is to stay consistent."
+        },
+        {
+            "message_id": "13",
+            "sender_id": "user_1",
+            "timestamp": "2024-10-29T09:10:10Z",
+            "content": "Haha, absolutely! Good luck with it, though. Sounds like a great project!"
+        },
+        {
+            "message_id": "14",
+            "sender_id": "user_2",
+            "timestamp": "2024-10-29T09:10:45Z",
+            "content": "Thanks, Alice! Good luck with the chat app too. Let me know when I can test it out!"
+        }
+    ]
+}
